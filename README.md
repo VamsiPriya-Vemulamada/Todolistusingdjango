@@ -8,3 +8,6 @@ django web application works as below
 **Prerequisites: **
 Install djangoa
 Setting up as per the work flow of Django 
+
+Reffernces:
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction
